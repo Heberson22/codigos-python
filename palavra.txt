@@ -1,0 +1,7 @@
+macaco
+leão
+tigre
+morsa
+pantera
+javali
+aligator
